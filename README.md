@@ -714,3 +714,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | finished most of work on login page for CodeConnects on my own create react app|still need to adjust code based on base CodeConnects repo |x|
+
+#### Day 41 July 28, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| did work on cutieHacks application form using Django|x |x|
+
