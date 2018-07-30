@@ -721,3 +721,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | did work on cutieHacks application form using Django|x |x|
 
+#### Day 42 July 29, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview Prep |CTCI |x|
