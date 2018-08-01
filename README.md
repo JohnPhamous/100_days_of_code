@@ -68,16 +68,6 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 * Learn data science:
   * Neural networks and deep learning
   * Make a BattleSnake bot and train it on a neural network
-* Jerry Tan
-* Goals:
-  * Continune to learn more web development
-    * Experiment with different frameworks(Vue, Angular, Flask)
-    * Start making personal website
-    * Learn how to make web apps
-  * Learn Data Science/ Machine Learning
-    * Tensorflow
-    * Deep Learning
-  * Technical Interview prep(CodeFights, LeetCode, CodePath etc)
 </details>
 
 <details>
@@ -739,3 +729,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Technical Interview Prep| more graphs | x |
+
+#### Day 45 August 1, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| experimented with Flask| x | x |
