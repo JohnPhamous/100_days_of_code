@@ -735,3 +735,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | experimented with Flask| x | x |
+
+#### Day 46 August 2, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview Prep| leetcode medium | x |
