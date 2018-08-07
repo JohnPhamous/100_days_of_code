@@ -765,3 +765,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | looked into integrating react with redux | halfway there :) | x |
+
+#### Day 51 August 7, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview Prep | leetcode | x |
