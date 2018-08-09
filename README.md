@@ -778,3 +778,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | learned about web scraping | x | x |
 
+#### Day 53 August 9, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview Prep | reviewed greeedy algorithms | x |
+
