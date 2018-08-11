@@ -784,3 +784,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Technical Interview Prep | reviewed greeedy algorithms | x |
 
+#### Day 54 August 10, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| looked into Vue.js | x| x |
+
+
