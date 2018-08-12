@@ -790,4 +790,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | looked into Vue.js | x| x |
 
+#### Day 55 August 11, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| linked CutieHacks landing page with forms | x| x |
+
 
