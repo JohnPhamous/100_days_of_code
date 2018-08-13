@@ -796,4 +796,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | linked CutieHacks landing page with forms | x| x |
 
+#### Day 56 August 12, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| learned about REST APIs | x| x |
+
 
