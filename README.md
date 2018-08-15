@@ -814,4 +814,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Technical Interview Prep | went over AVL trees, learned about red-black trees| x |
 
+#### Day 59 August 14, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview Prep | reviewed linked lists | x |
+
 
