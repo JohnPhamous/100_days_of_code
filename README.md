@@ -820,4 +820,11 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Technical Interview Prep | reviewed linked lists | x |
 
+#### Day 60 August 15, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| tested signin functionality in portal by making api function calls| x | x |
+
+
 
