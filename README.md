@@ -826,5 +826,11 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | tested signin functionality in portal by making api function calls| x | x |
 
+#### Day 61 August 16, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| learned a bit about handling speech recogntion and input permissions in chrome extensions | x | x |
+
 
 
