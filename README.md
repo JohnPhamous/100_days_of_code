@@ -838,3 +838,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | work on cutieHack backend | x | x |
 
+#### Day 62 August 18, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview prep | focus on more front - end questions | x |
