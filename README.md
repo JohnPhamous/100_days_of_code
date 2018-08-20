@@ -843,3 +843,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Technical Interview prep | focus on more front - end questions | x |
+
+#### Day 63 August 19, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Read up on web security(HTTPS, HSTS) |x | x |
