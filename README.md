@@ -814,38 +814,44 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Technical Interview Prep | went over AVL trees, learned about red-black trees| x |
 
-#### Day 59 August 14, 2018
+#### Day 59 August 15, 2018
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Technical Interview Prep | reviewed linked lists | x |
 
-#### Day 60 August 15, 2018
+#### Day 60 August 16, 2018
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | tested signin functionality in portal by making api function calls| x | x |
 
-#### Day 61 August 16, 2018
+#### Day 61 August 17, 2018
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | learned a bit about handling speech recogntion and input permissions in chrome extensions | x | x |
 
-#### Day 62 August 17, 2018
+#### Day 62 August 18, 2018
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | work on cutieHack backend | x | x |
 
-#### Day 62 August 18, 2018
+#### Day 62 August 19, 2018
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Technical Interview prep | focus on more front - end questions | x |
 
-#### Day 63 August 19, 2018
+#### Day 63 August 20, 2018
 #### Jerry Tan
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Read up on web security(HTTPS, HSTS) |x | x |
+
+#### Day 64 August 21, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| Technical Interview prep |Daily Coding Problem | x |
