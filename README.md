@@ -873,3 +873,9 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Technical Interview prep |Daily Coding Problem | x |
+
+#### Day 67 August 25, 2018
+#### Jerry Tan
+| What did you do today? | Comment(s) | Link(s) |
+|:-----------------------|:-----------|:--------|
+| work on login form validation for CodeConnects |x | x |
