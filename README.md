@@ -37,7 +37,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 </details>
 
 <details>
-<summary>Wendingo Li</summary>
+<summary>Wendy Li</summary>
 
 * Goals:
   * Unity Game Engine (C#)
