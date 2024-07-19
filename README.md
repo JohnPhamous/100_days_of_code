@@ -232,7 +232,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 |:-----------------------|:-----------|:--------|
 | Learned introductory SQL | watched video lectures of SQL and NOSQL on Udemy | x |
 
-#### Wendingo
+#### Wendy
 | What did you do today? | Comment(s) | Link(s) |
 |:-----------------------|:-----------|:--------|
 | Read chapter in book about mobile app development for Android. | n/a | n/a |
